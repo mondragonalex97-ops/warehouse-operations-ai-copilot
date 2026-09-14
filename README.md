@@ -90,20 +90,3 @@ Expected Units / (Expected Units per Labor Hour × Shift Length)
 A 7% staffing buffer is added to account for normal operational variation.
 
 Overtime risk is classified as Low, Medium, or High based on forecast demand relative to modeled labor capacity.
-
-## Resume bullets
-
-**Warehouse Operations AI Copilot | Python, Scikit-learn, Streamlit**
-
-- Built a machine-learning warehouse forecasting tool using 240 days of synthetic operating data to predict daily fulfillment volume and support labor planning.
-- Developed a staffing recommendation model using forecasted demand, productivity, labor hours, and capacity constraints to identify overtime risk.
-- Created an interactive operations dashboard tracking backlog, on-time shipping, productivity, absenteeism, error rates, and labor scenarios.
-- Automated management-style operational summaries that convert warehouse KPIs into actionable staffing and risk recommendations.
-
-## Interview explanation
-
-"I wanted to build something that connected supply chain operations with AI and analytics. I created a synthetic warehouse dataset and trained a machine-learning model to predict the next day's volume. I then connected that prediction to labor-capacity calculations so the tool recommends staffing and highlights overtime risk. The dashboard also monitors backlog, service levels, productivity, and absenteeism. I used synthetic data because I wanted the project to be realistic while avoiding any proprietary company information."
-
-## Important note
-
-This project is for portfolio and educational use. The dataset is synthetic and does not contain confidential employer data.
