@@ -1,5 +1,8 @@
 
 # Warehouse Operations AI Copilot
+A machine learning and operations analytics tool that forecasts warehouse volume, recommends staffing levels, and identifies operational risk.
+
+<img width="1903" height="1055" alt="{D06231D5-8E72-47F6-88D5-868EC36204B5}" src="https://github.com/user-attachments/assets/e957edda-0971-4742-a528-910304502b2d" />
 
 ## What the project does
 
