@@ -1,0 +1,4 @@
+WAREHOUSE OPERATIONS AI COPILOT | Python, Scikit-learn, Streamlit
+• Built a machine-learning forecasting tool using 240 days of synthetic warehouse operations data to predict daily fulfillment volume and support labor planning.
+• Developed a staffing recommendation model using forecasted demand, productivity, labor hours, and capacity constraints to identify overtime risk.
+• Created an interactive operations dashboard tracking backlog, on-time shipping, productivity, absenteeism, error rates, and staffing scenarios.
