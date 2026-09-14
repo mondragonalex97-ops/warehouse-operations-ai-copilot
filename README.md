@@ -1,8 +1,6 @@
 
 # Warehouse Operations AI Copilot
 
-A portfolio project that demonstrates how machine learning and analytics can support warehouse labor planning and operational decision-making.
-
 ## What the project does
 
 The application uses historical warehouse operating data to:
